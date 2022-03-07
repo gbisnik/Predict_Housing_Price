@@ -10,7 +10,7 @@ myheading1='Forecast Home Sale Prices in Ames, Iowa'
 image1='ames_welcome.jpeg'
 tabtitle = 'Ames Housing'
 sourceurl = 'http://jse.amstat.org/v19n3/decock.pdf'
-githublink = 'https://github.com/austinlasseter/simple-ml-apps'
+githublink = 'https://git.generalassemb.ly/gbisnik/Unit3-Project-Attempt2'
 
 ########### open the pickle file ######
 # filename = open('analysis/ames_housing_lr_model.pkl', 'rb')
